@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Settings/qmldir</file>
+        <file>qml/Settings/Settings.qml</file>
+        <file>qml/BackGround.qml</file>
+        <file>qml/Ball.qml</file>
+        <file>qml/BallMover.qml</file>
+        <file>qml/BallStatic.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Score.qml</file>
+        <file>qml/Board.qml</file>
+    </qresource>
+</RCC>
